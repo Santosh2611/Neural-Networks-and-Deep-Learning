@@ -1,2 +1,2 @@
 # Neural-Networks-and-Deep-Learning
-Demonstration of the mini-lab (practical) component activities conducted for the course of Neural Networks and Deep Learning (19CSE456).
+Demonstration of the mini-lab (practical) component activities conducted for the course of Neural Networks and Deep Learning (19CSE456). Provides an introduction to deep neural network models, and surveys some of the applications of these models in areas where they have been particularly successful. Covers feedforward networks, convolutional networks, recurrent and recursive networks, as well as general topics such as input encoding and training techniques.
